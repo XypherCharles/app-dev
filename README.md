@@ -43,13 +43,13 @@ This repository contains the following files and folders:
 
 1. About Me
 
-about-me.md
+about-me.md 
 
 Contains my personal introduction, course and section, hobbies, and favorite programming language.
 
 2. Favorite Movies
 
-favorites/movies.md
+favorites/movies.md 
 
 Contains my list of five favorite movies along with their descriptions.
 
