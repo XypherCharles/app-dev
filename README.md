@@ -49,7 +49,7 @@ Contains my personal introduction, course and section, hobbies, and favorite pro
 
 2. Favorite Movies
 
-[favorites/movies.md](favorites/movies.md)
+[favorites/movies.md](favorites/movies.md.)
 
 Contains my list of five favorite movies along with their descriptions.
 
