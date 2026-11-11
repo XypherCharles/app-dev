@@ -36,3 +36,21 @@ My Review
 I would rate this series 10/10 because of its interesting storyline, amazing characters, and unforgettable moments.
 
 Thank you for reading! 😊
+
+Repository Contents
+
+This repository contains the following files and folders:
+
+1. About Me
+
+about-me.md
+
+Contains my personal introduction, course and section, hobbies, and favorite programming language.
+
+2. Favorite Movies
+
+favorites/movies.md
+
+Contains my list of five favorite movies along with their descriptions.
+
+Thank you for visiting my app-dev repository!
